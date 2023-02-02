@@ -1,0 +1,11 @@
+﻿A1,A2,A3,Outcome
+Near,Hot,High,No
+Near,Hot,High,No
+Far,Hot,High,Yes
+Far,Cool,Normal,Yes
+Far,Cool,Normal,Yes
+Near,Cool,High,No
+Near,Hot,High,No
+Near,Hot,Normal,Yes
+Far,Cool,Normal,Yes
+Far,Cool,High,Yes
