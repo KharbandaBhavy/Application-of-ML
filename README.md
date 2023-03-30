@@ -7,3 +7,6 @@
 - Exp-4: (Part-2) Back Propogation Algorithm [My Code]
 - Exp-5: XG Boost Algorithm
 - Exp-6: Naive Bayes Algorithm
+- Exp-7: EM Algorithm
+- Exp-8: KNN on Iris
+- Exp-9: Non-parametric Locally Weighted Regression 
