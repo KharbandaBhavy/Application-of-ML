@@ -11,3 +11,9 @@
 - Exp-8: EM Algorithm
 - Exp-9: KNN on Iris
 - Exp-10: Non-parametric Locally Weighted Regression 
+- Exp-11: Predicting Diabetes using Logistic Regression
+- Exp-12: Image Classification using Convolutional Neural Networks (CNN)
+- Exp-13: Random Forest Classifier for Iris Dataset
+- Exp-14: Linear Regression for Boston Housing Dataset
+- Exp-15: SVM on the Breast Cancer Wisconsin dataset
+- Exp-16: Hilbert-Huang Transform
